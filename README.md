@@ -1,5 +1,5 @@
 # Multi Unfollower for instagram
-You can select multiple profiles to unfollow at once. Remember to use python3 for this application
+You can select multiple profiles to unfollow at once. Remember to use python3 for this application.
 ## installation Needed
 ```
 pip3 install requests
