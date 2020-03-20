@@ -7,4 +7,4 @@ pip3 install beautifulsoup4
 pip3 install lxml
 ```
 ## How to use
-[Video on how to use this application](https://streamable.com/gxyrc)
+[Video on how to use this application](https://youtu.be/ZoDcoK-Pypk)
